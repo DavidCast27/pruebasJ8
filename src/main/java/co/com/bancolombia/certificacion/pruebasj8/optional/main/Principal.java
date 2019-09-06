@@ -5,7 +5,7 @@ import co.com.bancolombia.certificacion.pruebasj8.optional.servicios.ServicioPer
 
 
 
-public class Run {
+public class Principal {
 
     public static void main(String[] args) {
 

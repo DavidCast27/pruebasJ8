@@ -12,7 +12,7 @@ import java.util.Optional;
  * Su uso esta centrado en eliminar muchos de los problemas que ocurren con el manejo de excepciones de tipo NullPointerException.
  * */
 
-public class RunJ8 {
+public class PrincipalFuncional {
 
     public static void main(String[] args) {
         System.out.printf("buscar utilizando for each tradicionalmente");
